@@ -1,4 +1,4 @@
-
+print("whtever")
 
 i=5
 def exer1():
